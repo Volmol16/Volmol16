@@ -1,5 +1,9 @@
 ### <div align="center">Я Олег, frontend разработчик-фрилансер 👨‍💻 работаю с 2020 года 🚀.</div>  
   
+<br />
+
+
+<br />
 
 - 🌱 В настоящее время изучаю Tailwind и React 
   
@@ -70,6 +74,3 @@
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
