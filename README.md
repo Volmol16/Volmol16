@@ -62,7 +62,10 @@
 
 </td></tr></table>  
 
-<br/>  
+<br/>
+
+## Пройденные курсы на Stepik
+1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 )
 
   
 
