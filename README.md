@@ -65,7 +65,7 @@
 <br/>
 
 ## Пройденные курсы на Stepik
-1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 )
+1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 ) -- 13.01.2024
 
   
 
