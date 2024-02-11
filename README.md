@@ -70,6 +70,7 @@
 3) [Погружение в JavaScript: для начинающих]( https://stepik.org/cert/2347393    ) -- 31.01.2024
 4) [Веб-разработка для начинающих: HTML и CSS]( https://stepik.org/cert/2354283     ) -- 07.02.2024
 5) [ОСНОВЫ Html & CSS ]( https://stepik.org/cert/2354989      ) -- 08.02.2024
+6) [Тесты и задачи по HTML, CSS и JavaScript ]( https://stepik.org/cert/2357975     ) -- 11.02.2024
   
 
 <br/>  
