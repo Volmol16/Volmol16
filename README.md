@@ -75,6 +75,7 @@
 7) [Тренажер по вёрстке, плагин Emmet ]( https://stepik.org/cert/2357975     ) -- 29.03.2024
 8) [Безопасность в интернете ]( https://stepik.org/cert/2357975     ) -- 24.04.2024
 9) [FRONTEND: HTML, CSS, JS ]( https://stepik.org/cert/2460348     ) -- 12.05.2024
+10) [React для современных веб-приложений ](https://stepik.org/cert/2561707     ) -- 13.09.2024
   
 
 <br/>  
