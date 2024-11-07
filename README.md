@@ -76,6 +76,7 @@
 9) [FRONTEND: HTML, CSS, JS ]( https://stepik.org/cert/2460348     ) -- 12.05.2024
 10) [React для современных веб-приложений ](https://stepik.org/cert/2561707     ) -- 13.09.2024
 11) [Web-технологии: начальный уровень](https://stepik.org/cert/2636936     ) -- 04.11.2024
+12) [Markdown](https://stepik.org/cert/2641170     ) -- 07.11.2024
   
 
 <br/>  
