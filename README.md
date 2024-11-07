@@ -77,6 +77,7 @@
 10) [React для современных веб-приложений ](https://stepik.org/cert/2561707     ) -- 13.09.2024
 11) [Web-технологии: начальный уровень](https://stepik.org/cert/2636936     ) -- 04.11.2024
 12) [Markdown](https://stepik.org/cert/2641170     ) -- 07.11.2024
+13) [Инди-курс по HTML и CSS](https://stepik.org/cert/2641199     ) -- 07.11.2024
   
 
 <br/>  
