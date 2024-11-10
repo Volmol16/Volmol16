@@ -81,6 +81,7 @@
 11) [Web-технологии: начальный уровень](https://stepik.org/cert/2636936     ) -- 04.11.2024
 12) [Markdown](https://stepik.org/cert/2641170     ) -- 07.11.2024
 13) [Инди-курс по HTML и CSS](https://stepik.org/cert/2641199     ) -- 07.11.2024
+14) [Игра на Vue.js](https://stepik.org/cert/2644091     ) -- 10.11.2024
   
 
 <br/>  
