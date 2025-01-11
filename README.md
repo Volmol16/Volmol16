@@ -67,11 +67,10 @@
 
 <br/>
 
-<div align="center">  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=radical)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Volmol16&show_icons=true&theme=radical)
+<div align="center">
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=radical" /> </a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volmol16&show_icons=true&theme=radical" /> </a>
 </div>
-
 
 ## Пройденные курсы на Stepik
 1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 ) -- 13.01.2024
