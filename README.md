@@ -67,9 +67,7 @@
 
 <br/>
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" />
-</a>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=radical)
 
 ## Пройденные курсы на Stepik
 1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 ) -- 13.01.2024
