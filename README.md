@@ -67,7 +67,7 @@
 
 <br/>
 
-<div align="center">
+<div style="display: flex; justify-content: space-between">
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=highcontrast" /> </a>
 <a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Volmol16&show_icons=true&layout=compact&theme=highcontrast" /> </a>
 </div>
