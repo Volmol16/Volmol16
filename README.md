@@ -67,8 +67,10 @@
 
 <br/>
 
+<div align="center">  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=radical)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Volmol16&show_icons=true&theme=radical)
+</div>
 
 
 ## Пройденные курсы на Stepik
