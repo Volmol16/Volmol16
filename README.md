@@ -68,6 +68,8 @@
 <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Volmol16&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Volmol16&show_icons=true&theme=radical)
+
 
 ## Пройденные курсы на Stepik
 1) [JavaScript для начинающих]( https://stepik.org/cert/2328243 ) -- 13.01.2024
