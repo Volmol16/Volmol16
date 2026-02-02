@@ -37,6 +37,7 @@
 13) [Инди-курс по HTML и CSS](https://stepik.org/cert/2641199     ) -- 07.11.2024
 14) [Игра на Vue.js](https://stepik.org/cert/2644091     ) -- 10.11.2024
 15) [HTML CSS (mini)](https://stepik.org/cert/2652121     ) -- 17.11.2024
+16) [Машинное обучение](https://stepik.org/cert/3117855     ) -- 02.02.2026
   
 
 <br/>  
